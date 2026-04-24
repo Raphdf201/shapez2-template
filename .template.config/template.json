@@ -19,7 +19,8 @@
         "**/bin/**",
         "**/obj/**",
         ".template.config/**",
-        "**/*.user"
+        "**/*.user",
+        "**/*.nuspec"
       ]
     }
   ]
