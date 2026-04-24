@@ -1,0 +1,26 @@
+{
+  "Version": "1.0.0",
+  "Title": "shapez2modTemplate",
+  "Description": "",//TODO
+  "Author": "",//TODO
+  "SavedModVersionCompabilityRangeWithSelf": "1.*.*",
+  "GameVersionSupportRange": "^1.0.0",
+  "AffectsSaveGames": true,
+  "DisablesAchievements": false,
+  "Assemblies": [
+    "shapez2modTemplate.dll"
+  ],
+  "Dependencies": [
+    {
+      "ModId": "steam:3542712030",
+      "ModTitle": "MonoMod.RuntimeDetour",
+      "Version": "^25.2.3"
+    },
+    {
+      "ModId": "steam:3542611357",
+      "ModTitle": "Shapez Shifter",
+      "Version": "^1.0.0"
+    }
+  ],
+  "Conflicts": []
+}

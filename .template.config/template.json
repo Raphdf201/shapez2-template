@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Raphdf201",
+  "classifications": [ "Common", "Shapez2", "Mod" ],
+  "identity": "Raphdf201.Shapez2Template",
+  "name": "Shapez 2 mod template",
+  "shortName": "shapez2mod",
+  "sourceName":"shapez2modTemplate",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
