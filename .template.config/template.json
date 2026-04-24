@@ -20,7 +20,8 @@
         "**/obj/**",
         ".template.config/**",
         "**/*.user",
-        "**/*.nuspec"
+        "**/*.nuspec",
+        "**/*.nupkg"
       ]
     }
   ]

@@ -2,10 +2,12 @@
 <package>
     <metadata>
         <id>Raphdf201.Shapez2Template</id>
-        <version>1.0.1</version>
+        <version>1.0.2</version>
         <authors>Raphdf201</authors>
         <description>A template for creating Shapez 2 mods</description>
         <readme>README.md</readme>
+        <license type="file">LICENSE.txt</license>
+        <repository type="git" url="https://github.com/Raphdf201/shapez2-template" />
         <packageTypes>
             <packageType name="Template" />
         </packageTypes>
@@ -13,5 +15,6 @@
     <files>
         <file src="**" target="content" exclude="**\.git\**;**\.idea\**;**\logs\**;**\obj\**;**\*.user;**\*.nuspec" />
         <file src="README.md" target="" />
+        <file src="LICENSE.txt" target="" />
     </files>
 </package>
