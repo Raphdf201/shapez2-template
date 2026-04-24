@@ -9,5 +9,18 @@
   "tags": {
     "language": "C#",
     "type": "project"
-  }
+  },
+  "sources": [
+    {
+      "exclude": [
+        ".git/**",
+        "**/.idea/**",
+        "**/logs/**",
+        "**/bin/**",
+        "**/obj/**",
+        ".template.config/**",
+        "**/*.user"
+      ]
+    }
+  ]
 }
