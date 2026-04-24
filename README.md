@@ -17,5 +17,4 @@ to uninstall the template : `dotnet new uninstall Raphdf201.Shapez2Template`
 
 ```
 nuget pack .\.nuspec -NoDefaultExcludes
-dotnet nuget push Raphdf201.Shapez2Template.version.nupkg --source https://api.nuget.org/v3/index.json --api-key KEY
 ```
