@@ -1,6 +1,6 @@
 {
+  "$schema": "https://shapez2.raphdf201.net/assets/manifestSchema.json",
   "Version": "1.0.0",
-  "Title": "shapez2modTemplate",
   "Description": "",//TODO
   "Author": "",//TODO
   "SavedModVersionCompabilityRangeWithSelf": "1.*.*",
